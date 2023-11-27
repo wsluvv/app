@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="label_app">Фильмы</string>
+
+    <string name="genres_with_year">%1$s</string>
+    <string name="year">год</string>
+    <string name="rating">%1$s</string>
+    <string name="source_rating">КиноПоиск</string>
+    <string name="rating_without_value">-</string>
+    <string name="without_description">Нет описания</string>
+
+    <string name="genre_title">Жанры</string>
+    <string name="film_title">Фильмы</string>
+    <string name="no_title">Фильмы</string>
+
+    <string name="data_not_load">Ошибка подключения сети</string>
+    <string name="retry_on_error">Повторить</string>
+    <string name="server_error">Ошибка сервера</string>
+    <string name="request_timeout_error">Медленное соединение</string>
+    <string name="conflict_value_error">Не удалось распознать ответ от сервер</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+
+    <string name="image_not_found">Изображение не найдено</string>
+    <string name="image_film">Image film</string>
+
+    <string name="favorite">Избранное</string>
+    <string name="not_films_favorite">Пока нет фильмов</string>
+    <string name="go_to_film_favorite">Перейти к фильмам</string>
+    <string name="content_description_favorite">Перейти к фильмам</string>
+</resources>

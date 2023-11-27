@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/filmsFragment">
+
+    <fragment
+        android:id="@+id/filmsFragment"
+        android:name="com.delirium.films.films.FilmsFragment"
+        android:label="@string/label_app"
+        tools:layout="@layout/fragment_films" >
+        <action
+            android:id="@+id/action_filmsFragment_to_FilmDescription"
+            app:destination="@id/filmDescriptionNav" />
+    </fragment>
+    <fragment
+        android:id="@+id/filmDescriptionNav"
+        android:name="com.delirium.films.description.FilmDescriptionFragment"
+        android:label="{titleDesc}"
+        tools:layout="@layout/fragment_film_description">
+        <argument
+            android:name="SelectedFilm"
+            app:argType="com.delirium.films.model.FilmInfo" />
+        <argument
+            android:name="titleDesc"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.delirium.films.favorite.FavoriteFragment"
+        android:label="@string/favorite"
+        tools:layout="@layout/fragment_favorite" >
+    </fragment>
+</navigation>

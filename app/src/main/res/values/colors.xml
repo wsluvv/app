@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_color">#6936D6</color>
+
+    <color name="background_light">#FFFFFFFF</color>
+    <color name="background">#111111</color>
+    <color name="background_title">#212121</color>
+    <color name="background_genre">#313131</color>
+    <color name="background_genre_select">#D7F6F8</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="progress_bar">#57c6de</color>
+
+    <color name="snackBarColor">#232323</color>
+    <color name="snackBarColorAction">#A77DFF</color>
+
+    <color name="descYearText">#4B4B4B</color>
+    <color name="indicator">#6936D6</color>
+
+    <color name="red">#F44336</color>
+</resources>

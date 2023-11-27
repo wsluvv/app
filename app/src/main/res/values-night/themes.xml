@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Films" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/background_title</item>
+        <item name="colorPrimaryDark">@color/background_title</item>
+        <item name="colorAccent">@color/background_title</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
