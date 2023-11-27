@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.136" />
+        <entry key="app/src/main/res/drawable/NotFound_background.xml" value="0.3328125" />
+        <entry key="app/src/main/res/drawable/genre.xml" value="0.276" />
+        <entry key="app/src/main/res/drawable/genre_selected.xml" value="0.2805" />
+        <entry key="app/src/main/res/drawable/ic_img.xml" value="0.276" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.136" />
+        <entry key="app/src/main/res/drawable/icon_app_foreground.xml" value="0.3328125" />
+        <entry key="app/src/main/res/drawable/not_found_background.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/drawable/not_found_foreground.xml" value="0.3328125" />
+        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.3328125" />
+        <entry key="app/src/main/res/drawable/rounded_corner_selected.xml" value="0.3328125" />
+        <entry key="app/src/main/res/drawable/snackbar_rounder.xml" value="0.276" />
+        <entry key="app/src/main/res/font-v26/font.xml" value="0.35104166666666664" />
+        <entry key="app/src/main/res/font/font.xml" value="0.28815733219324496" />
+        <entry key="app/src/main/res/font/roboto_500.xml" value="0.28815733219324496" />
+        <entry key="app/src/main/res/font/roboto_bold.xml" value="0.28815733219324496" />
+        <entry key="app/src/main/res/font/roboto_light.xml" value="0.28815733219324496" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.2626970227670753" />
+        <entry key="app/src/main/res/layout-land/fragment_description_film.xml" value="0.2626970227670753" />
+        <entry key="app/src/main/res/layout-land/fragment_film_description.xml" value="0.23257802479692177" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout/error_connect.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/films_item.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/fragment_description_film.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_film_description.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_films.xml" value="0.24660018132366274" />
+        <entry key="app/src/main/res/layout/fragment_genre.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout/fragment_page_view.xml" value="0.21014492753623187" />
+        <entry key="app/src/main/res/layout/genre_item.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/progress_bar_ring.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/title_item.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/tool_bar.xml" value="0.25651988029072254" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/not_found.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/not_found_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
